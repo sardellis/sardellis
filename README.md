@@ -1,9 +1,4 @@
--Типи перекладу
-Переклад тексту
-Текст оригіналу
-google doc: https://docs.google.com/document/d/17Vijbut2EtvfRiJNFJ0TUPdBtTXOUiLV/edit ## Slozhnosti pri perenose bloga Pri perenose bloga s sayta Encredible Edibles na Square my stolknulis' s ryadom opredelennykh problem. Bol'shinstvo iz nikh vyzvany ogranichennymi vozmozhnostyami redaktirovaniya na novoy platforme. No yest' yedinichnyye voprosy, s kotorymi my mozhem razobrat'sya, ne pribegaya k tekh.podderzhke Square. Kartinki Sut' problemy: nel'zya stavit' kartinki vnutri stat'i. Dopuskayetsya tol'ko odna – zaglavnaya. Chastota problemy: v kazhdoy stat'ye. Osobenno kritichno dlya statey so spiskami produktov. Primer: https://blog.incredibleedibles.com/best-cbd-lollipops/ [IMG] _Sayt Encredible Edibles_ [IMG] _Sayt Square_ ### Numeratsiya Sut' problemy: na novom sayte numeratsiya rabotayet, tol'ko yesli kazhdyy punkt nachinayetsya pryamo so sleduyushchego abzatsa. Yesli v odnom punkte neskol'ko abzatsev, to postavit' cherez neskol'ko abzatsev sleduyushchuyu poryadkovuyu tsifru sistema ne dayet. Dazhe yesli otklyuchit' knopku «avtomaticheskaya numeratsiya», ono vse ravno stavit vezde «1. …» i ne ispravlyayetsya. My obkhodim etot vopros otsutstviyem probelov mezhdu nomerom punkta i teksta, chto vyglyadit nekrasivo, ili udaleniyem numeratsii vovse. Chastota problemy: primerno kazhdaya 10-ya stat'ya. Primer: https://blog.incredibleedibles.com/best-cbd-shampoos/ [IMG] Variant, kotoryy predostavlyayet Square [IMG] Variant, kotorym vremenno pol'zuyemsya my Zapasnoy variant ### Oglavleniye Sut' problemy: na sayte Encredible Edibles byla vozmozhnost' delat' ssylki vnutri stat'i na nuzhnyye razdely – takim obrazom my sozdavali klikabel'noye oglavleniye. Novaya platforma ne dayet takoy vozmozhnosti. Chastota problemy: primerno kazhdaya 5-ya stat'ya. Primer: https://blog.incredibleedibles.com/cbd-effects/ [IMG] Klikabel'noye oglavleniye na Encredible Edibles
-Показати більше
-1 802 / 5 000
+
 Результати перекладу
 google doc: https://docs.google.com/document/d/17Vijbut2EtvfRiJNFJ0TUPdBtTXOUiLV/edit
 
