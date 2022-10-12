@@ -1,7 +1,4 @@
 
-Результати перекладу
-google doc: https://docs.google.com/document/d/17Vijbut2EtvfRiJNFJ0TUPdBtTXOUiLV/edit
-
 ## Difficulties when migrating a blog
 
 
